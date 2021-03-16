@@ -56,3 +56,15 @@ border-color: white;
 .info ul li{
   margin-right: 8px;
 }
+
+.works{
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.works>h1{
+  font-weight: normal;
+  font-size: 24px;
+  text-align: center;
+}
